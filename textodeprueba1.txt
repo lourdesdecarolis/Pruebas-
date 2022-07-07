@@ -1,5 +1,3 @@
 Texto para probar git en curso de programación. 
 
-Le hago una modificación para probar. 
-
-Última prueba para probar final. 
+Prueba para pasar al repositorio de Github. 
